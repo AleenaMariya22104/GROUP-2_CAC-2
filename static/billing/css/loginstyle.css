@@ -12,10 +12,10 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url('static/billing/images/2.jpg');
+    background: url('../images/2.jpg');
     background-size: cover;
     background-position: center;
-    
+
 }
 
 
