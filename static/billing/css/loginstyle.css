@@ -6,17 +6,17 @@
     box-sizing: border-box;
     font-family: "Poppins", sans-serif;
 }
-
+/* 
 body {
     display: flex;
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url('../images/2.jpg');
+    background: url('static/billing/images/3.jpg');
     background-size: cover;
     background-position: center;
 
-}
+} */
 
 
 .wrapper {
